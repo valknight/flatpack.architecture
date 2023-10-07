@@ -1,0 +1,10 @@
+using UnityEngine;
+using Flatpack.Architecture.SharedData.Generics;
+
+namespace Flatpack.Architecture.SharedData
+{
+    [CreateAssetMenu(menuName = "Flatpack/Architecture/SFramework/Shared Data/Basic/Shared ``typeClassname``", fileName = "SettableShared``typeClassname``")]
+    public class SettableShared``typeClassname``: BasicGenericSettableSharedData<``type``>
+    {
+    }
+}
