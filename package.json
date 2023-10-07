@@ -1,0 +1,24 @@
+{
+  "name": "com.valknight.flatpack.architecture",
+  "displayName": "Flatpack | architecture",
+  "version": "0.0.1",
+  "unity": "2023.2",
+  "description": "Architectural tooling for the Flatpack project.",
+  "keywords": [
+    "unity",
+    "unity3d",
+    "upm",
+    "Val Knight",
+    "utility"
+  ],
+  "homepage": "https://github.com/valknight/flatpack.architecture.git",
+  "bugs": {
+    "url": "https://github.com/valknight/flatpack.architecture/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/valknight/flatpack.architecture.git"
+  },
+  "license": "MIT",
+  "author": "Val Knight"
+}

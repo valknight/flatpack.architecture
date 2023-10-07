@@ -1,0 +1,14 @@
+{
+    "name": "com.valknight.flatpack.architecture.shareddata",
+    "rootNamespace": "Flatpack.Architecture.SharedData",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
