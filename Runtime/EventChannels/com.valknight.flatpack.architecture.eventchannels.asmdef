@@ -1,0 +1,16 @@
+{
+    "name": "com.valknight.flatpack.architecture.eventchannels",
+    "rootNamespace": "",
+    "references": [
+        "GUID:b4c4f0f930bb943bd93012181d15ce42"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
