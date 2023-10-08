@@ -6,7 +6,7 @@ using Flatpack.Architecture.SharedData.Generics;
 
 namespace Flatpack.Architecture.SharedData
 {
-    [CreateAssetMenu(menuName = "Flatpack/Architecture/Shared Data/Shared ColorArray", fileName = "SettableSharedColorArray")]
+    [CreateAssetMenu(menuName = "Flatpack/Architecture/Shared Data/Settable/Shared ColorArray", fileName = "SettableSharedColorArray")]
     internal class SettableSharedColorArray: BasicGenericSettableSharedData<Color[]>
     {
     }

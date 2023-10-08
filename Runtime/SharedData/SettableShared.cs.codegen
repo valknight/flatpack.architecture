@@ -3,7 +3,7 @@ using Flatpack.Architecture.SharedData.Generics;
 
 namespace Flatpack.Architecture.SharedData
 {
-    [CreateAssetMenu(menuName = "Flatpack/Architecture/Shared Data/Shared ``typeClassname``", fileName = "SettableShared``typeClassname``")]
+    [CreateAssetMenu(menuName = "Flatpack/Architecture/Shared Data/Settable/Shared ``typeClassname``", fileName = "SettableShared``typeClassname``")]
     internal class SettableShared``typeClassname``: BasicGenericSettableSharedData<``type``>
     {
     }
