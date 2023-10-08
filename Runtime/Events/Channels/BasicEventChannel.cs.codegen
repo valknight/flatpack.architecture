@@ -1,0 +1,10 @@
+using Flatpack.Architecture.Events.Channels.Generics;
+using UnityEngine;
+
+namespace Flatpack.Architecture.Events.Channels
+{
+    [CreateAssetMenu(menuName = "Flatpack/Architecture/Events/Channels/``typeClassname`` channel", fileName = "EventChannel``typeClassname``")]
+    internal class BasicEventChannel``typeClassname``: BasicEventChannel<``type``>
+    {
+    }
+}

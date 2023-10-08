@@ -1,0 +1,17 @@
+{
+    "name": "com.valknight.flatpack.architecture.helperbehaviours.eventbindings",
+    "rootNamespace": "Flatpack.Architecture.HelperBehaviours.EventBindings",
+    "references": [
+        "com.valknight.flatpack.architecture.events.channels",
+        "com.valknight.flatpack.architecture.shareddata"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

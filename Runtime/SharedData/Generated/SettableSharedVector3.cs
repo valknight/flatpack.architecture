@@ -6,8 +6,8 @@ using Flatpack.Architecture.SharedData.Generics;
 
 namespace Flatpack.Architecture.SharedData
 {
-    [CreateAssetMenu(menuName = "Flatpack/Architecture/SFramework/Shared Data/Basic/Shared Vector3", fileName = "SettableSharedVector3")]
-    public class SettableSharedVector3: BasicGenericSettableSharedData<Vector3>
+    [CreateAssetMenu(menuName = "Flatpack/Architecture/Shared Data/Shared Vector3", fileName = "SettableSharedVector3")]
+    internal class SettableSharedVector3: BasicGenericSettableSharedData<Vector3>
     {
     }
 }

@@ -1,6 +1,6 @@
 {
-    "name": "com.valknight.flatpack.architecture.eventchannels",
-    "rootNamespace": "",
+    "name": "com.valknight.flatpack.architecture.events.channels",
+    "rootNamespace": "Flatpack.Architecture.Events.Channels",
     "references": [
         "GUID:b4c4f0f930bb943bd93012181d15ce42"
     ],
