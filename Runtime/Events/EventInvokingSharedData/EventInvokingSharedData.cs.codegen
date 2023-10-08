@@ -1,0 +1,10 @@
+using Flatpack.Architecture.Events.InvokingData.Generics;
+using UnityEngine;
+
+namespace Flatpack.Architecture.Events.InvokingData
+{
+    [CreateAssetMenu(menuName = "Flatpack/Architecture/Events/Event Invoking Data/Shared ``typeClassname`` (Event Invoking)", fileName = "EventInvoking``typeClassname``")]
+    internal class EventInvokingShared``typeClassname``: EventInvokingSharedData<``type``>
+    {
+    }
+}
