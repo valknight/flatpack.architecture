@@ -6,7 +6,7 @@ using Flatpack.Architecture.SharedData.Generics;
 
 namespace Flatpack.Architecture.SharedData
 {
-    [CreateAssetMenu(menuName = "Flatpack/Architecture/Shared Data/Shared Int", fileName = "SettableSharedInt")]
+    [CreateAssetMenu(menuName = "Flatpack/Architecture/Shared Data/Settable/Shared Int", fileName = "SettableSharedInt")]
     internal class SettableSharedInt: BasicGenericSettableSharedData<int>
     {
     }

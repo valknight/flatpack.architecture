@@ -6,7 +6,7 @@ using Flatpack.Architecture.SharedData.Generics;
 
 namespace Flatpack.Architecture.SharedData
 {
-    [CreateAssetMenu(menuName = "Flatpack/Architecture/Shared Data/Shared StringArray", fileName = "SettableSharedStringArray")]
+    [CreateAssetMenu(menuName = "Flatpack/Architecture/Shared Data/Settable/Shared StringArray", fileName = "SettableSharedStringArray")]
     internal class SettableSharedStringArray: BasicGenericSettableSharedData<string[]>
     {
     }

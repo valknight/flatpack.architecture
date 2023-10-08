@@ -6,7 +6,7 @@ using Flatpack.Architecture.SharedData.Generics;
 
 namespace Flatpack.Architecture.SharedData
 {
-    [CreateAssetMenu(menuName = "Flatpack/Architecture/Shared Data/Shared Bool", fileName = "SettableSharedBool")]
+    [CreateAssetMenu(menuName = "Flatpack/Architecture/Shared Data/Settable/Shared Bool", fileName = "SettableSharedBool")]
     internal class SettableSharedBool: BasicGenericSettableSharedData<bool>
     {
     }

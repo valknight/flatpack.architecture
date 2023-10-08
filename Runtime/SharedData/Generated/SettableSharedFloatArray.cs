@@ -6,7 +6,7 @@ using Flatpack.Architecture.SharedData.Generics;
 
 namespace Flatpack.Architecture.SharedData
 {
-    [CreateAssetMenu(menuName = "Flatpack/Architecture/Shared Data/Shared FloatArray", fileName = "SettableSharedFloatArray")]
+    [CreateAssetMenu(menuName = "Flatpack/Architecture/Shared Data/Settable/Shared FloatArray", fileName = "SettableSharedFloatArray")]
     internal class SettableSharedFloatArray: BasicGenericSettableSharedData<float[]>
     {
     }
