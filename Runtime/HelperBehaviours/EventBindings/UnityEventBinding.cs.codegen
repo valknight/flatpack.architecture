@@ -1,0 +1,9 @@
+using UnityEngine;
+using Flatpack.Architecture.HelperBehaviours.EventBindings.Generics;
+
+namespace Flatpack.Architecture.HelperBehaviours.EventBindings
+{
+    internal class UnityEventBinding``typeClassname``: UnityEventBinding<``type``>
+    {
+    }
+}
