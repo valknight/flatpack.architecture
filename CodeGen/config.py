@@ -7,7 +7,10 @@ basic = [
     "Vector2",
     "Vector3",
     "Color",
-    "bool"
+    "bool",
+    "UnityEngine.PhysicMaterial",
+    "UnityEngine.Mesh",
+    "UnityEngine.Material"
 ]
 
 lists = [
