@@ -7,10 +7,7 @@ basic = [
     "Vector2",
     "Vector3",
     "Color",
-    "bool",
-    "UnityEngine.PhysicMaterial",
-    "UnityEngine.Mesh",
-    "UnityEngine.Material"
+    "bool"
 ]
 
 lists = [
@@ -61,8 +58,6 @@ templates = [
 classname_replacements = [
     ("Flatpack.Architecture.SharedData.Generics.AbstractGenericSharedData",
      "Shared"),
-    ("UnityEngine.",
-     ""),
      ("System.Collections.Generic.List",
      "++List"),
      ("[]",
