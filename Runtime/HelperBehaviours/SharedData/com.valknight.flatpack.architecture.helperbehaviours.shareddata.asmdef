@@ -1,0 +1,16 @@
+{
+    "name": "com.valknight.flatpack.architecture.helperbehaviours.shareddata",
+    "rootNamespace": "Flatpack.Architecture.HelperBehaviours.SharedData",
+    "references": [
+        "com.valknight.flatpack.architecture.shareddata"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
